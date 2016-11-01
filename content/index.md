@@ -4,12 +4,15 @@ titleBreadcrumb: Home
 A website using Anax Flat
 ===============================
 
-Hi there.
+Hello there and welcome to my page!
 
-Nice of you to stop by.
+Here I will learn about Markdown and using Anax as a CMS.  
+You can view my reports at the top there.
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
+Feel free to click around the site!
 
-Cheers and happy building of websites,  
+Here is a picture me:  
+![me_picture](img/me.png "Picture of Lösningen")
 
-//Lösningen
+
+// Lösningen
