@@ -1,4 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se) and Lösningen
+Copyright &copy; 2016 Simon "Lösningen" Huang (schani@live.se)
 
 * [License](license)
 * [Cookies](cookies)
