@@ -12,5 +12,6 @@ Maybe I'll learn one thing or two about designing webpages...
 
 The source for this site is available on GitHub in [anax_flat](https://github.com/Schanihbg/anax_flat).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).  
-This site is modified by Lösningen.
+This site is modified by Lösningen (schani@live.se).
+
+![about_picture](img/about.jpg "Picture of code")
