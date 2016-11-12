@@ -40,22 +40,10 @@ return [
     "views" => [
         [
             "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],
-        [
-            "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
-                "siteLogoTextIconAlt" => "Small logo",
+                "siteLogoText"  => "Anax",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
                 "siteTitle"     => null, //"Anax PHP framework",
