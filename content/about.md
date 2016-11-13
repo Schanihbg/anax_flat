@@ -10,7 +10,8 @@ We will learn about Markdown, LESS and typography in this course.
 
 Maybe I'll learn one thing or two about designing webpages...
 
-The source for this site is available on GitHub in [anax_flat](https://github.com/Schanihbg/anax_flat).
+The source for this site is available on GitHub in [anax_flat](https://github.com/Schanihbg/anax_flat).  
+The source for the theme is available on GitHub in [anax-flat-theme](https://github.com/Schanihbg/anax-flat-theme).
 
 This site is modified by Lösningen (schani@live.se).
 
