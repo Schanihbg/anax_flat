@@ -14,6 +14,13 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "index" => [
+                "text"  => t("Home"),
+                "url"   => $this->di->get("url")->create(""),
+                "title" => t("Home page"),
+                "mark-if-parent" => true,
+            ],
+
             "test" => [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
@@ -31,7 +38,8 @@ return [
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("About this website"),
+                "mark-if-parent" => true,
             ],
         ],
     ],
@@ -50,6 +58,13 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "index" => [
+                "text"  => t("Home"),
+                "url"   => $this->di->get("url")->create(""),
+                "title" => t("Home page"),
+                "mark-if-parent" => true,
+            ],
+
             "test" => [
                 "text"  => t("Test"),
                 "url"   => $this->di->get("url")->create("test"),
@@ -67,7 +82,8 @@ return [
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("About this website"),
+                "mark-if-parent" => true,
             ],
         ],
     ],
