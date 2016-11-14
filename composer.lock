@@ -159,16 +159,16 @@
         },
         {
             "name": "mos/anax",
-            "version": "v2.5.20",
+            "version": "v2.5.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/anax.git",
-                "reference": "748128a132ef49ed743c1ddbeff8cf7c705c4e07"
+                "reference": "71343ff95f460c39cc8fa777da818e99cd8d49a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/anax/zipball/748128a132ef49ed743c1ddbeff8cf7c705c4e07",
-                "reference": "748128a132ef49ed743c1ddbeff8cf7c705c4e07",
+                "url": "https://api.github.com/repos/mosbth/anax/zipball/71343ff95f460c39cc8fa777da818e99cd8d49a7",
+                "reference": "71343ff95f460c39cc8fa777da818e99cd8d49a7",
                 "shasum": ""
             },
             "require": {
@@ -209,20 +209,20 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-07 11:04:26"
+            "time": "2016-11-14 14:23:09"
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.0.21",
+            "version": "v1.0.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "2ffa07d21b70ed20ec1805da3c8cf69c890f7f09"
+                "reference": "60f169578b876178168d9c30f7f3022a19328a10"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/2ffa07d21b70ed20ec1805da3c8cf69c890f7f09",
-                "reference": "2ffa07d21b70ed20ec1805da3c8cf69c890f7f09",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/60f169578b876178168d9c30f7f3022a19328a10",
+                "reference": "60f169578b876178168d9c30f7f3022a19328a10",
                 "shasum": ""
             },
             "require": {
@@ -264,7 +264,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-07 12:12:49"
+            "time": "2016-11-14 23:18:24"
         },
         {
             "name": "mos/cimage",
@@ -326,16 +326,16 @@
         },
         {
             "name": "mos/ctextfilter",
-            "version": "v1.2.16",
+            "version": "v1.2.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/ctextfilter.git",
-                "reference": "4c5b2bd3f76798665e2dc7207281cb4882098692"
+                "reference": "35e6e77c94a3e6883392a03a8d03195fd5f16a5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/4c5b2bd3f76798665e2dc7207281cb4882098692",
-                "reference": "4c5b2bd3f76798665e2dc7207281cb4882098692",
+                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/35e6e77c94a3e6883392a03a8d03195fd5f16a5b",
+                "reference": "35e6e77c94a3e6883392a03a8d03195fd5f16a5b",
                 "shasum": ""
             },
             "require": {
@@ -385,7 +385,7 @@
                 "markdown",
                 "shortcode"
             ],
-            "time": "2016-10-31 12:22:27"
+            "time": "2016-11-14 14:25:06"
         },
         {
             "name": "scrivo/highlight.php",
