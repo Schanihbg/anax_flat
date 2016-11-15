@@ -18,7 +18,7 @@ return [
                 "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create(""),
                 "title" => t("Home page"),
-                "mark-if-parent" => true,
+                "mark-if-parent" => false,
             ],
 
             "test" => [
@@ -62,7 +62,7 @@ return [
                 "text"  => t("Home"),
                 "url"   => $this->di->get("url")->create(""),
                 "title" => t("Home page"),
-                "mark-if-parent" => true,
+                "mark-if-parent" => false,
             ],
 
             "test" => [
