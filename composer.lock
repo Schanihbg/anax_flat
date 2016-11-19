@@ -159,16 +159,16 @@
         },
         {
             "name": "mos/anax",
-            "version": "v2.5.22",
+            "version": "v2.5.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/anax.git",
-                "reference": "71343ff95f460c39cc8fa777da818e99cd8d49a7"
+                "reference": "aec2412f3d33f3ba3e9e6fe99a0581a16698d11c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/anax/zipball/71343ff95f460c39cc8fa777da818e99cd8d49a7",
-                "reference": "71343ff95f460c39cc8fa777da818e99cd8d49a7",
+                "url": "https://api.github.com/repos/mosbth/anax/zipball/aec2412f3d33f3ba3e9e6fe99a0581a16698d11c",
+                "reference": "aec2412f3d33f3ba3e9e6fe99a0581a16698d11c",
                 "shasum": ""
             },
             "require": {
@@ -209,20 +209,20 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-14 14:23:09"
+            "time": "2016-11-15 11:36:55"
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.0.24",
+            "version": "v1.0.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "60f169578b876178168d9c30f7f3022a19328a10"
+                "reference": "97577c137889349e2432f37fff734411af29f16e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/60f169578b876178168d9c30f7f3022a19328a10",
-                "reference": "60f169578b876178168d9c30f7f3022a19328a10",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/97577c137889349e2432f37fff734411af29f16e",
+                "reference": "97577c137889349e2432f37fff734411af29f16e",
                 "shasum": ""
             },
             "require": {
@@ -264,7 +264,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-14 23:18:24"
+            "time": "2016-11-15 11:47:21"
         },
         {
             "name": "mos/cimage",
