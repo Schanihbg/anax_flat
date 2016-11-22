@@ -35,6 +35,20 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grids"),
+                "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typographies"),
+                "mark-if-parent" => true,
+            ],
+
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -76,6 +90,20 @@ return [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Reports from kmom assignments"),
+                "mark-if-parent" => true,
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grids"),
+                "mark-if-parent" => true,
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typographies"),
                 "mark-if-parent" => true,
             ],
 
