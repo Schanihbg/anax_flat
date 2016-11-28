@@ -326,16 +326,16 @@
         },
         {
             "name": "mos/ctextfilter",
-            "version": "v1.2.17",
+            "version": "v1.2.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/ctextfilter.git",
-                "reference": "35e6e77c94a3e6883392a03a8d03195fd5f16a5b"
+                "reference": "9b0da867b4a9486d397e95ad3a1d8c913f95e3fe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/35e6e77c94a3e6883392a03a8d03195fd5f16a5b",
-                "reference": "35e6e77c94a3e6883392a03a8d03195fd5f16a5b",
+                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/9b0da867b4a9486d397e95ad3a1d8c913f95e3fe",
+                "reference": "9b0da867b4a9486d397e95ad3a1d8c913f95e3fe",
                 "shasum": ""
             },
             "require": {
@@ -385,7 +385,7 @@
                 "markdown",
                 "shortcode"
             ],
-            "time": "2016-11-14 14:25:06"
+            "time": "2016-11-24 07:33:33"
         },
         {
             "name": "scrivo/highlight.php",
@@ -423,16 +423,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.1.6",
+            "version": "v3.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27"
+                "reference": "9da375317228e54f4ea1b013b30fa47417e84943"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/7ff51b06c6c3d5cc6686df69004a42c69df09e27",
-                "reference": "7ff51b06c6c3d5cc6686df69004a42c69df09e27",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/9da375317228e54f4ea1b013b30fa47417e84943",
+                "reference": "9da375317228e54f4ea1b013b30fa47417e84943",
                 "shasum": ""
             },
             "require": {
@@ -468,7 +468,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-10-24 18:41:13"
+            "time": "2016-11-18 21:05:29"
         }
     ],
     "packages-dev": [],
