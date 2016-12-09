@@ -94,7 +94,8 @@ TeamViewer kör på direkt med en stor grön knapp som säger utstrålar ”ladd
 
 Det här är en sida som visar det viktigaste först, vill man veta mer så kan man alltid klicka sig vidare. Jag tycker att nästan alla sidor borde vara så här!
 
-
+***
+**Analyserna har jag gjort ensam, har inte medverkat i en grupp.**
 
 [github]: img/analysis/github.png
 [irccloud]: img/analysis/irccloud.png
