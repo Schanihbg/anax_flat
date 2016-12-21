@@ -1,4 +1,4 @@
-Analysis
+Colors
 ==============================================
 
 Här kommer jag att analysera några hemsidor där jag kommer att undersöka och visualisera dess färgpalett.
