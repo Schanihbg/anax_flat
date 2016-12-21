@@ -159,16 +159,16 @@
         },
         {
             "name": "mos/anax",
-            "version": "v2.5.23",
+            "version": "v2.5.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/anax.git",
-                "reference": "aec2412f3d33f3ba3e9e6fe99a0581a16698d11c"
+                "reference": "8f8621e77df0edacc9987591f02cbf8e7d64a74a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/anax/zipball/aec2412f3d33f3ba3e9e6fe99a0581a16698d11c",
-                "reference": "aec2412f3d33f3ba3e9e6fe99a0581a16698d11c",
+                "url": "https://api.github.com/repos/mosbth/anax/zipball/8f8621e77df0edacc9987591f02cbf8e7d64a74a",
+                "reference": "8f8621e77df0edacc9987591f02cbf8e7d64a74a",
                 "shasum": ""
             },
             "require": {
@@ -209,20 +209,20 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-15 11:36:55"
+            "time": "2016-11-28 14:00:37"
         },
         {
             "name": "mos/anax-flat",
-            "version": "v1.0.26",
+            "version": "v1.0.31",
             "source": {
                 "type": "git",
                 "url": "https://github.com/canax/anax-flat.git",
-                "reference": "97577c137889349e2432f37fff734411af29f16e"
+                "reference": "f93064b60a9fbed73c7e6c42fec3cead88af85c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/canax/anax-flat/zipball/97577c137889349e2432f37fff734411af29f16e",
-                "reference": "97577c137889349e2432f37fff734411af29f16e",
+                "url": "https://api.github.com/repos/canax/anax-flat/zipball/f93064b60a9fbed73c7e6c42fec3cead88af85c2",
+                "reference": "f93064b60a9fbed73c7e6c42fec3cead88af85c2",
                 "shasum": ""
             },
             "require": {
@@ -264,7 +264,7 @@
                 "micro",
                 "mvc"
             ],
-            "time": "2016-11-15 11:47:21"
+            "time": "2016-12-05 17:03:47"
         },
         {
             "name": "mos/cimage",
@@ -326,16 +326,16 @@
         },
         {
             "name": "mos/ctextfilter",
-            "version": "v1.2.18",
+            "version": "v1.2.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mosbth/ctextfilter.git",
-                "reference": "9b0da867b4a9486d397e95ad3a1d8c913f95e3fe"
+                "reference": "39af7891a10eed403ab503572b9d464d1a182fae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/9b0da867b4a9486d397e95ad3a1d8c913f95e3fe",
-                "reference": "9b0da867b4a9486d397e95ad3a1d8c913f95e3fe",
+                "url": "https://api.github.com/repos/mosbth/ctextfilter/zipball/39af7891a10eed403ab503572b9d464d1a182fae",
+                "reference": "39af7891a10eed403ab503572b9d464d1a182fae",
                 "shasum": ""
             },
             "require": {
@@ -385,7 +385,7 @@
                 "markdown",
                 "shortcode"
             ],
-            "time": "2016-11-24 07:33:33"
+            "time": "2016-11-28 14:53:40"
         },
         {
             "name": "scrivo/highlight.php",
@@ -423,25 +423,31 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.1.7",
+            "version": "v3.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "9da375317228e54f4ea1b013b30fa47417e84943"
+                "reference": "a7095af4b97a0955f85c8989106c249fa649011f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/9da375317228e54f4ea1b013b30fa47417e84943",
-                "reference": "9da375317228e54f4ea1b013b30fa47417e84943",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/a7095af4b97a0955f85c8989106c249fa649011f",
+                "reference": "a7095af4b97a0955f85c8989106c249fa649011f",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.5.9"
             },
+            "require-dev": {
+                "symfony/console": "~2.8|~3.0"
+            },
+            "suggest": {
+                "symfony/console": "For validating YAML files using the lint command"
+            },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.1-dev"
+                    "dev-master": "3.2-dev"
                 }
             },
             "autoload": {
@@ -468,7 +474,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-11-18 21:05:29"
+            "time": "2016-12-10 10:07:06"
         }
     ],
     "packages-dev": [],
