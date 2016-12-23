@@ -11,11 +11,20 @@ RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule (.*) - [NC,L]
 
+
 # Rewrite 1 - For request via www.student.bth.se
+RewriteCond %{HTTP_HOST} ^www\.student\.bth\.se$ [NC]
+#RewriteRule ^image/(.*)$ /~sihu12/kod-exempel/anax-flat/htdocs/cimage/imgd.php?src=$1 [QSA,NC,L]
+RewriteRule ^image/(.*)$ /~sihu12/dbwebb-kurser/design/me/anax-flat/htdocs/cimage/imgd.php?src=$1 [QSA,NC,L]
+
 RewriteCond %{HTTP_HOST} ^www\.student\.bth\.se$ [NC]
 #RewriteRule (.*) /~sihu12/kod-exempel/anax-flat/htdocs/index.php/$1 [NC,L]
 RewriteRule (.*) /~sihu12/dbwebb-kurser/design/me/anax-flat/htdocs/index.php/$1 [NC,L]
 
+
 # Rewrite 2 - For other requests
+RewriteCond %{HTTP_HOST} !^www\.student\.bth\.se$ [NC]
+RewriteRule ^image/(.*)$ cimage/imgd.php?src=$1 [QSA,NC,L]
+
 RewriteCond %{HTTP_HOST} !^www\.student\.bth\.se$ [NC]
 RewriteRule (.*) index.php/$1 [NC,L]
