@@ -63,6 +63,13 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images"),
+                "mark-if-parent" => true,
+            ],
+
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -132,6 +139,13 @@ return [
                 "text"  => t("Themes"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Themes"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images"),
                 "mark-if-parent" => true,
             ],
 
