@@ -1,7 +1,7 @@
 /**
  * @preserve Setup the basis for the responsive menu.
  * @author Mikael Roos <mos@dbwebb.se>
- * @see {@link https://github.com/mosbth/responsive-menu}
+ * @see {@link https://github.com/janaxs/responsive-menu}
  */
 (function () {
     "use strict";

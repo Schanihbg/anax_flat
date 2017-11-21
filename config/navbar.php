@@ -51,7 +51,7 @@ return [
 
             "theme" => [
                 "text"  => t("Themes"),
-                "url"   => $this->di->get("url")->create("theme"),
+                "url"   => $this->di->get("url")->create("themes"),
                 "title" => t("Themes"),
                 "mark-if-parent" => true,
             ],
@@ -130,7 +130,7 @@ return [
 
             "theme" => [
                 "text"  => t("Themes"),
-                "url"   => $this->di->get("url")->create("theme"),
+                "url"   => $this->di->get("url")->create("themes"),
                 "title" => t("Themes"),
                 "mark-if-parent" => true,
             ],

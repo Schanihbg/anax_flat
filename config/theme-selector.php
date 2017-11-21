@@ -78,5 +78,31 @@ return [
                 "css/fun.min.css"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "contrast"       => [
+            "title"      => "Contrast on the site.",
+            "class"      => "contrast",
+            "stylesheets" => [
+                "css/contrast.min.css"
+            ]
+        ],
+
+        "shadow"       => [
+            "title"      => "Shadow on the site.",
+            "class"      => "shadow",
+            "stylesheets" => [
+                "css/shadow.min.css"
+            ]
+        ],
+
+        "texture"       => [
+            "title"      => "Shadow on the site.",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
     ]
 ];
