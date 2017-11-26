@@ -104,5 +104,31 @@ return [
                 "css/texture.min.css"
             ]
         ],
+
+        "separator4" => "------------------------------------------------",
+
+        "background-texture"       => [
+            "title"      => "Background-texture on the site.",
+            "class"      => "background-texture",
+            "stylesheets" => [
+                "css/background-texture.min.css"
+            ]
+        ],
+
+        "border-gradient"       => [
+            "title"      => "Border-gradient on the site.",
+            "class"      => "border-gradient",
+            "stylesheets" => [
+                "css/border-gradient.min.css"
+            ]
+        ],
+
+        "wide"       => [
+            "title"      => "Wide site.",
+            "class"      => "wide",
+            "stylesheets" => [
+                "css/wide.min.css"
+            ]
+        ],
     ]
 ];

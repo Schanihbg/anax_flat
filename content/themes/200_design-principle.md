@@ -1,4 +1,4 @@
-Themes-v2
+Design Principle
 ==============================================
 
 Här kommer mina teman version 2 som finns på sidan att beskrivas.
